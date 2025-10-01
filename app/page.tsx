@@ -4,8 +4,17 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+        about my Portfolio today
       </h1>
+
+      <div className="mb-6">
+        <img
+          src="/cat1.png"    
+          alt="cat1"
+          className="rounded-2xl shadow-lg w-full max-w-2xl mx-auto"
+        />
+      </div>
+
       <p className="mb-4">
         {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
         Vim's keystroke commands and tabs' flexibility for personal viewing
@@ -13,6 +22,7 @@ export default function Page() {
         early error detection ensures cleaner code, and my preference for dark
         mode, which eases long coding sessions by reducing eye strain.`}
       </p>
+
       <div className="my-8">
         <BlogPosts />
       </div>
