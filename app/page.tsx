@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-  About Our Portfolio today, <span className="text-blue-600">Mohamad Alfin and Fathan Aditya</span>
+  Our Portfolio, <span className="text-blue-600">Malvins and Dityaaf</span>
 </h1>
 
 <h2 className="text-xl font-semibold mt-4">Team 2:</h2>
