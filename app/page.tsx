@@ -7,7 +7,7 @@ export default function Page() {
   About my Portfolio today, <span className="text-blue-600">Mohamad Alfin R.</span>
 </h1>
 
-<h2 className="text-xl font-semibold mt-4">Team 2:</h2>
+<h2 className="text-xl font-semibold mt-4">Team 2:</h2>dfgdfgdfgdg
 <div className="mt-2 space-y-1">
   <p className="text-gray-700 italic">— Mohamad Alfin R</p>
   <p className="text-gray-700 italic">— Fathan Aditya F</p>
