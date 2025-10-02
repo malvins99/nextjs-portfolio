@@ -9,8 +9,8 @@ export default function Page() {
 
 <h2 className="text-xl font-semibold mt-4">Team 2:</h2>
 <div className="mt-2 space-y-1">
-  <p className="text-gray-700 italic">— Mohamad Alfin R</p>
-  <p className="text-gray-700 italic">— Fathan Aditya F</p>
+  <p className="text-gray-700 italic">— Mohamad Alfin Ridwan</p>
+  <p className="text-gray-700 italic">— Fathan Aditya Febriananda</p>
 </div>
 
 
